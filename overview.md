@@ -1,4 +1,4 @@
-###Overview
+#Overview
 
 Satoshi Nakamoto outlined some of  the reasons for creating Bitcoin in his  whitepaper.  Bitcoin was created as an alternative to the existing centralized financial institutions.  Satoshi believed that there were several problematic aspects to the current centralized system.  The Bitcoin vision was to have a distributed, decentralized cryptocurrency.  It was to be based on, “cryptographic proof instead of trust”.  With Bitcoin, there would be no need for a trusted third party.  The weight of a peer-to-peer distributed network would serve as a means to record all transactions and protect users from the double-spending problem.  Bitcoin was created as open source software, and the code resides on Github.  Anyone interested can see the code.
 
